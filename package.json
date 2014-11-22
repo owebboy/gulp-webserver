@@ -1,0 +1,19 @@
+{
+  "name": "gulp-webserver",
+  "version": "1.0.0",
+  "description": "makes everything easier!",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:owebboy/simple-project.git"
+  },
+  "author": "Oliver Pope <o@owebboy.com> (https://owebboy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owebboy/simple-project/issues"
+  },
+  "homepage": "https://github.com/owebboy/simple-project",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "gulp-webserver": "~0.8.7"
+  }
+}
