@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/owebboy/simple-project",
   "devDependencies": {
-    "gulp": "~3.8.10",
-    "gulp-webserver": "~0.8.7"
+    "gulp": "~4.0.2",
+    "gulp-webserver": "~0.9.1"
   }
 }
